@@ -1,0 +1,20 @@
+{
+    "name": "didinahmadi/monkey-project",
+    "description": "Main site simulation that will uses my local repo by compsoer",
+    "require": {
+    	"didinahmadi/hello": "dev-master"
+    },
+    "repositories": [
+        {
+            "name": "didinahmadi/hello",
+            "type": "git",
+            "url": "/Users/didinahmadi/banana-project"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Didin Abu Aisy",
+            "email": "didin@myworkforce.com"
+        }
+    ]
+}
